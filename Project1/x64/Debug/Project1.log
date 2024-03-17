@@ -1,2 +1,5 @@
-﻿  Source03.cpp
-  Project1.vcxproj -> C:\KYM\C++\Project1\x64\Debug\Project1.exe
+﻿  Source05.cpp
+C:\KYM\C++\project\Project1\Source05.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\KYM\C++\project\Project1\Source05.cpp(38,2): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+C:\KYM\C++\project\Project1\Source05.cpp(49,10): error C2297: '<<': 오른쪽 피연산자의 유형이 'const char [36]'이므로 유효하지 않습니다.
+C:\KYM\C++\project\Project1\Source05.cpp(49,10): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
